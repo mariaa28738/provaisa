@@ -62,6 +62,7 @@
             color: #d5006d;
         }
     </style>
+</body>
 </head>
 <body>
     <h1>Lista de Exercícios PHP</h1>
